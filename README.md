@@ -1,2 +1,2 @@
 # TakTikTuk
-A simple game in Java
+A simple java application to play Tak-Tik-Tuk
